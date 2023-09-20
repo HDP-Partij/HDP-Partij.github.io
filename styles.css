@@ -1,6 +1,25 @@
 .Bovenblok{
-background-color:darkblue;
+background-color:#20cdd9;
 color: white;
 padding: 20px;
 border: 2px solid black;
+}
+.Middenblok{
+background-color: gray;
+color: white;
+padding: 100px;
+border: 2px solid black;
+}
+.BovenblokContact{
+background-color: #20cdd9;
+Color: black;
+padding: 10px;
+border: 2px solid black;
+}
+.VerdereInformatie{
+background-color: gray;
+Color: black;
+Padding: 100px;
+border: 2px solid black;
+text-align: left;
 }

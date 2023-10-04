@@ -29,3 +29,34 @@ margin: 1px;
 font-size: 25px;
 font-family: verdana; 
 }
+
+<style>
+  /* Stijlen voor het blok */
+  .persoon-blok {
+    background-color: green;
+    padding: 20px;
+    border: 1px solid #ccc;
+    display: flex;
+    align-items: center;
+  }
+
+  /* Stijlen voor de afbeelding */
+  .persoon-foto {
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+
+  /* Stijlen voor de tekst */
+  .persoon-tekst {
+    font-size: 18px;
+  }
+
+  /* Stijlen voor de titel */
+  .blok-titel {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+</style>

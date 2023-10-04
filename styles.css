@@ -30,15 +30,7 @@ font-size: 25px;
 font-family: verdana; 
 }
 
-<style>
-  /* Stijlen voor het blok */
-  .persoon-blok {
-    background-color: green;
-    padding: 20px;
-    border: 1px solid #ccc;
-    display: flex;
-    align-items: center;
-  }
+
 
   /* Stijlen voor de afbeelding */
   .persoon-foto {
@@ -59,4 +51,9 @@ font-family: verdana;
     font-weight: bold;
     margin-bottom: 10px;
   }
-</style>
+ /* CSS voor het blok met lichtgrijze achtergrond */
+        .image-block {
+            background-color: lightblue;
+            padding: 20px;
+        }
+

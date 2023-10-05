@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
-  <title> Merchandise</title>
-<link rel="stylesheet" href="styles.css">
+  <title>Dankuwel</title>
+
+  <link rel="stylesheet" href="styles.css">
 <div class="Bovenblok">
   <body>
     <a href="index.html">
@@ -14,34 +15,10 @@
    <a href="Word_Lid.html"style="color:white; font-family:verdana;"">Word lid!</a>
   </body>
 </div>
-
-<img src="partijpet.png" alt="Pet"  width="auto" height="auto"></img>
-  <p> Mooie Pet van de partij.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<body>
   
-<input list="aantal" name="aantal">
-  <datalist id="aantal">
-    <option value="1">
-    <option value="2">
-    <option value="3">
-    <option value="4">
-    <option value="5">
-  </datalist>
+  <body>
+    <h1> Bedankt!</h1>
+    <p> Bedankt dat u lid bent geworden bij de snelst groeiende partij van Nederland. De HDPP. Wij danken u zeer voor uw steun.</p>
+  </body>
 </html>

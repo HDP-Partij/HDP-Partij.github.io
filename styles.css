@@ -1,9 +1,10 @@
 .Bovenblok{
-background-color:#20cdd9;
+background-color:#009dff;
 color: white;
 padding: 15px;
-border: 2px solid black;
+border: 6px solid #ced0de;
 margin: 1px; 
+border-radius: 20px;
 }
 .Middenblok{
 background-color: gray;
@@ -15,29 +16,44 @@ border: 2px solid black;
 background-color: #ffffff;
 Color: black;
 padding: 10px;
-border: 2px solid black;
-margin: 1px; 
+border: 6px solid #b8dcff;
+margin: 5px; 
 font-family: verdana;
+border-radius: 20px
 }
 .VerdereInformatie{
 background-color: #ffffff;
 Color: black;
 Padding: 25px;
-border: 2px solid black;
+border: 6px solid #b8dcff;
 text-align: left-top;
-margin: 1px; 
+margin: 5px; 
 font-size: 25px;
 font-family: verdana; 
+  border-radius: 20px;
+  
 }
 
 
 
 
   .persoon-foto {
-    max-width: 300px;
+    max-width: 50%;
     max-height: 300px;
     border-radius: 50%;
     margin-right: 20px;
+    float: left;
+  }
+
+ .persoon-foto2 {
+    max-width: 50%;
+    max-height: 300px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+
+  .persoon-foto img {
+    width: 100%
   }
 
 
@@ -50,18 +66,29 @@ font-family: verdana;
     font-size: 24px;
     font-weight: bold;
     margin-bottom: 10px;
+    border-radius: 20px;
   }
 
         .image-block {
-            background-color: lightblue;
+            background-color: white;
             padding: 20px;
         }
 
+.container {
+      display: flex;
+      align-items: center;
+        }
 
+.description {
+      padding: 20px;
+  float: left;
+  max-width: 50%;
+        }
 
-
-
-
+.image {
+      max-width: 50%;
+      height: auto;
+        }
 
 {
   box-sizing: border-box;
@@ -73,11 +100,11 @@ body {
 
 
 header {
-  background-color: #99eff5;
+  background-color: white;
   padding: 30px;
   text-align: center;
   font-size: 35px;
-  color: white;
+  color: black;
 }
 
 
@@ -86,6 +113,8 @@ nav {
   width: 30%;
   background: #ccc;
   padding: 20px;
+  border-radius: 20px;
+  border: 6px solid #b8dcff;
 }
 
 

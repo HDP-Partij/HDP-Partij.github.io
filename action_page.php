@@ -13,6 +13,7 @@
     <a href="Merchandise.html"style="color:white; font-family:verdana;">Merchandise</a>
    <a href="Contact.html"style="color:white; font-family:verdana;">Contact</a> 
    <a href="Word_Lid.html"style="color:white; font-family:verdana;"">Word lid!</a>
+    <a href="winkelwagen.html"style="color:white;font-family:verdana;">Winkelwagen</a>
   </body>
 </div>
 <body>

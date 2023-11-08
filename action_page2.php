@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>Word Lid</title>
+  <title> Verzendgegevens</title>
 <link rel="stylesheet" href="styles.css">
 <div class="Bovenblok">
   <body>
@@ -15,32 +15,29 @@
         <a href="winkelwagen.html"style="color:white;font-family:verdana;">Winkelwagen</a>
   </body>
 </div>
-<body>
 
-<h2>Word Lid</h2>
-
-
-<form action="/action_page.php"> 
+  <form action="/action_page3.php">
 <label for="voornaam">Voornaam:</label><br>
   <input type="text" id="voornaam" name="voornaam" value=><br>
-  
+
 <label for="achternaam">Achternaam:</label><br>
   <input type="text" id="achternaam" name="achternaam" value=><br>
 
 <label for="email"> Email Adress: </label> <br> 
   <input type="text" id="email" name="email" value=><br>
 
-<label for="wachtwoord"> Wachtwoord: </label> <br> 
-  <input type="text" id="wachtwoord" name="wachtwoord" value=><br>
+<label for="Postcode"> Postcode </label> <br> 
+  <input type="text" id="postcode" name="postcode" value=><br>
 
-  <label for="birthday">geboortedatum:</label> <br>
-  <input type="date" id="birthday" name="birthday"><br> 
+<label for="Straatnaam"> Straatnaam </label> <br> 
+  <input type="text" id="Straatnaam" name="Straatnaam" value=><br>
+  
+<label for="Huisnummer"> Huisnummer </label> <br> 
+  <input type="number" id="huisnummer" name="huisnummer" value=><br>
 
-
+<label for="Iban"> Iban </label> <br> 
+  <input type="text" id="Iban" name="Iban" value=><br>
+  
   <input type="submit" value="Submit">
   <input type="reset" value="Reset">
 </form> 
-</a>
-
-</body>
-</html>

@@ -110,11 +110,11 @@ header {
 
 nav {
   float: left;
-  width: 30%;
-  background: #ccc;
+  width: 25%;
+  background: #b8dcff;
   padding: 20px;
   border-radius: 20px;
-  border: 6px solid #b8dcff;
+  border: 6px solid black;
 }
 
 
@@ -126,8 +126,7 @@ nav ul {
 article {
   float: left;
   padding: 20px;
-  width: 65%;
-  background-color: #f1f1f1;
+  width: 70%;
 }
 
 
